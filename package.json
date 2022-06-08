@@ -1,0 +1,7 @@
+{
+  "name": "emotion-monorepo-babel-plugin-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "reproduce": "pnpm i && (cd packages/my-app && pnpm dev)"
+  }
+}
