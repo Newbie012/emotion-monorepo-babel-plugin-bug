@@ -1,0 +1,1 @@
+export { default as babelTransform } from "./vite-plugin-babel-transform"
